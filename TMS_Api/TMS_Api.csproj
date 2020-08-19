@@ -8,5 +8,9 @@
     <ProjectReference Include="..\TMS\TMS.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 
 </Project>
